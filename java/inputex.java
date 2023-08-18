@@ -25,5 +25,6 @@ public class inputex {
         System.out.println("modulos="+mod);
 
 
+
     }
 }
